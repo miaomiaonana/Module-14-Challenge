@@ -64,7 +64,7 @@ Open the Jupyter notebook. Restart the kernel, run the provided cells that corre
 
 7. Create a cumulative return plot that shows the actual returns vs. the strategy returns. Save a PNG image of this plot. This will serve as a baseline against which to compare the effects of tuning the trading algorithm.
 
-![return]([image1.png](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image1.png))
+![return](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image1.png))
 
 8. Write your conclusions about the performance of the baseline trading algorithm in the `README.md` file that’s associated with your GitHub repository. Support your findings by using the PNG image that you saved in the previous step.
 
