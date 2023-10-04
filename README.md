@@ -64,8 +64,8 @@ Open the Jupyter notebook. Restart the kernel, run the provided cells that corre
 
 7. Create a cumulative return plot that shows the actual returns vs. the strategy returns. Save a PNG image of this plot. This will serve as a baseline against which to compare the effects of tuning the trading algorithm.
 
-![return](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image1.png))
-The algo did a better job than actual returns.
+![return](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image1.png)
+!!The algo did a better job than actual returns.
 
 8. Write your conclusions about the performance of the baseline trading algorithm in the `README.md` file that’s associated with your GitHub repository. Support your findings by using the PNG image that you saved in the previous step.
 
@@ -76,7 +76,7 @@ In this section, you’ll tune, or adjust, the model’s input features to find 
 1. Tune the training algorithm by adjusting the size of the training dataset. To do so, slice your data into different periods. Rerun the notebook with the updated parameters, and record the results in your `README.md` file. Answer the following question: What impact resulted from increasing or decreasing the training window?
 
 ![return](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image2.png)
-Increasing the size of the the training data increase the prediction accuracy.
+!!Increasing the size of the the training data increase the prediction accuracy.
 
 6 month training data
 
@@ -88,7 +88,7 @@ Increasing the size of the the training data increase the prediction accuracy.
 150 long window
 ![return](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image3.png)
 
-Increasing the SMA window made the prediction worse.
+!!Increasing the SMA window made the prediction worse.
 
 4. Choose the set of parameters that best improved the trading algorithm returns. Save a PNG image of the cumulative product of the actual returns vs. the strategy returns, and document your conclusion in your `README.md` file.
 
@@ -104,7 +104,7 @@ In this section, you’ll use the original parameters that the starter code prov
 
 3. Backtest the new model to evaluate its performance. Save a PNG image of the cumulative product of the actual returns vs. the strategy returns for this updated trading algorithm, and write your conclusions in your `README.md` file. Answer the following questions: Did this new model perform better or worse than the provided baseline model? Did this new model perform better or worse than your tuned trading algorithm?
 
-Answer: Baseline model is betterthan the new algo.
+!!Answer: Baseline model is betterthan the new algo.
 The tuned trading algo is better than the baseline model.
 
 ### Create an Evaluation Report
