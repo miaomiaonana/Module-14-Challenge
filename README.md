@@ -1,6 +1,6 @@
 # Machine Learning Trading Bot
 
-![Decorative image.](Images/14-challenge-image.png)
+![Decorative image.](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/14-challenge-image.png)
 
 Now, it's time to take what you've learned about machine learning and apply it to new situations. For this optional assignment, you'll create an algorithmic trading bot that learns and adapts to new data and evolving markets. Be sure to give it your all -- as the skills you hone will become powerful tools in your FinTech tool belt.
 
@@ -64,7 +64,7 @@ Open the Jupyter notebook. Restart the kernel, run the provided cells that corre
 
 7. Create a cumulative return plot that shows the actual returns vs. the strategy returns. Save a PNG image of this plot. This will serve as a baseline against which to compare the effects of tuning the trading algorithm.
 
-![return](image1.png)
+![return]([image1.png](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image1.png))
 
 8. Write your conclusions about the performance of the baseline trading algorithm in the `README.md` file that’s associated with your GitHub repository. Support your findings by using the PNG image that you saved in the previous step.
 
@@ -74,7 +74,7 @@ In this section, you’ll tune, or adjust, the model’s input features to find 
 
 1. Tune the training algorithm by adjusting the size of the training dataset. To do so, slice your data into different periods. Rerun the notebook with the updated parameters, and record the results in your `README.md` file. Answer the following question: What impact resulted from increasing or decreasing the training window?
 
-![return](image2.png)
+![return](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image2.png)
 
 6 month trainning data
 
@@ -84,11 +84,11 @@ In this section, you’ll tune, or adjust, the model’s input features to find 
 3 month trainning data
 8 short window
 150 long window
-![return](image3.png)
+![return](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image3.png)
 
 3. Choose the set of parameters that best improved the trading algorithm returns. Save a PNG image of the cumulative product of the actual returns vs. the strategy returns, and document your conclusion in your `README.md` file.
 
-![return](image2.png)
+![return](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image2.png)
 
 ### Evaluate a New Machine Learning Classifier
 
@@ -109,7 +109,7 @@ In the previous sections, you updated your `README.md` file with your conclusion
 
 ---
 
-![return](image4.png)
+![return](https://github.com/miaomiaonana/Module-14-Challenge/blob/main/images/image4.png)
 
 ## Submission
 
